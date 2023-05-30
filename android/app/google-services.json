@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911720678686",
+    "project_id": "ride-with-mee",
+    "storage_bucket": "ride-with-mee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911720678686:android:01abe9ff1992ca7102f50f",
+        "android_client_info": {
+          "package_name": "com.example.ride_with_mee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911720678686-dgb4lrktpp564juojsceis10r66b3g3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyi-ydSW1tsDwvsadXHTuf3_ifObpuSfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911720678686-dgb4lrktpp564juojsceis10r66b3g3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
